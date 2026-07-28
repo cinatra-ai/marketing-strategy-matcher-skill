@@ -1,0 +1,17 @@
+{
+  "name": "@cinatra-ai/marketing-strategy-matcher-skill",
+  "version": "0.1.0",
+  "license": "Apache-2.0",
+  "description": "Classifies an attached resource as a Marketing Strategy document. Extracted from @cinatra-ai/marketing-strategy-artifact (cinatra#2090).",
+  "type": "module",
+  "files": [
+    "skills"
+  ],
+  "cinatra": {
+    "apiVersion": "cinatra.ai/v1",
+    "kind": "skill",
+    "displayName": "Marketing Strategy Matcher Skill",
+    "skillRole": "matcher",
+    "dependencies": []
+  }
+}
